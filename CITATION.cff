@@ -1,20 +1,38 @@
-cff-version: 1.2.0
-message: "Please cite this project as below."
-authors:
-- family_names: "Lawrence"
-  given_names: "Maggie"
-  orcid: https://orcid.org/0000-0003-2393-7747
-- family_names: "Pocrnic"
-  given_names: "Matthew"
-- family_names: "Fung"
-  given_names: "Erin"
-- family_names: "Carrasquilla"
-  given_names: "Juan"
-- family_names: "Gauger"
-  given_names: "Erik"
-- family_names: "Segal"
-  given_names: "Dvira"
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
-title: "Discovery of energy landscapes towards optimized quantum transport: Environmental effects and long-range tunneling"
-version: 1.0
-url: "https://github.com/maggielawrence/Optimized-Quantum-Transport"
+cff-version: 1.2.0
+title: Optimized-Quantum-Transport
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Maggie
+    family-names: Lawrence
+  - given-names: Matthew
+    family-names: Pocrnic
+  - given-names: Erin
+    family-names: Fung
+  - given-names: Juan
+    family-names: Carrasquilla
+  - given-names: Erik
+    family-names: Gauger
+  - given-names: Dvira
+    family-names: Segal
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/maggielawrence/Optimized-Quantum-Transport.git
+repository-code: >-
+  https://github.com/maggielawrence/Optimized-Quantum-Transport.git
+abstract: >-
+  Optimized-Quantum-Transport: Results from JAX-compatible
+  simulations of Environmental-Noise Assisted Quantum
+  Transport.
+
+  See https://arxiv.org/abs/2508.09371 for a description of
+  this project.
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-10-24'
