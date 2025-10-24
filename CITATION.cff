@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this project as below."
+authors:
+- family_names: "Lawrence"
+  given_names: "Maggie"
+  orcid: https://orcid.org/0000-0003-2393-7747
+- family_names: "Pocrnic"
+  given_names: "Matthew"
+- family_names: "Fung"
+  given_names: "Erin"
+- family_names: "Carrasquilla"
+  given_names: "Juan"
+- family_names: "Gauger"
+  given_names: "Erik"
+- family_names: "Segal"
+  given_names: "Dvira"
+
+title: "Discovery of energy landscapes towards optimized quantum transport: Environmental effects and long-range tunneling"
+version: 1.0
+url: "https://github.com/maggielawrence/Optimized-Quantum-Transport"
