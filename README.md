@@ -1,4 +1,4 @@
-# Optimized-Quantum-Transport: Results from JAX-compatible simulations of Environmental-Noise Assisted Quantum Transport.
+# Optimized-Quantum-Transport: Results from optimizations of quantum transport in open quantum systems.
 ## See https://arxiv.org/abs/2508.09371 for a description of this project.
 
 To create the conda environment used to perform these simulations, run the following commands (insert desired environment name):
